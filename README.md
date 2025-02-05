@@ -1,5 +1,5 @@
 # TP2
-
+pour le tp3 :  https://github.com/ayoub0258/TP3.git
 ## 📌 Description
 Ce projet construit plusieurs index à partir d’un fichier JSONL contenant des informations produits pour préparer un moteur de recherche.
 
