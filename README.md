@@ -25,5 +25,5 @@ Ce projet construit plusieurs index à partir d’un fichier JSONL contenant des
 Assurez-vous d’avoir Python 3.7+ installé.  
 Clonez le repo et installez les dépendances :
 ```bash
-git clone https://github.com/votre-repo/ecommerce-indexing.git
+git clone https://github.com/ayoub0258/TP2.git
 pip install nltk
